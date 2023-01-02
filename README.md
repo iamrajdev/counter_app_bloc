@@ -1,6 +1,6 @@
 # counter_app_bloc
 
-A new Flutter project.
+Simple Bloc project flutter application.
 
 ## Getting Started
 
